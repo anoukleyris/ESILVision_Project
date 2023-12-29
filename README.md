@@ -4,4 +4,6 @@
 
   Key functionalities include the complete visualization of the academic profile of each student, a messaging system fostering communication between administration and students, as well as total autonomy for the administration in managing students, teachers, and courses.
 
+  The tutorial video of the use of ESILVision isn't available on the github but it's avaliable on Moodle
+
 
